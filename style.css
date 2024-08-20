@@ -31,7 +31,7 @@ ul{
 
 ul li a{
     text-decoration: none;
-    font-size:17px ;
+    font-size:16px ;
     color: black;
     font-weight: 500;
     transition: .4s ease-out;
@@ -53,9 +53,9 @@ ul li a.active{
 
 #showcase .showcase-content{
     text-align: center;
-    padding: 210px;
+    padding: 140px;
     width: 65%;
-    margin-left: 280px;
+    margin-left: 220px;
     gap: 20px;
 }
 
@@ -89,7 +89,7 @@ ul li a.active{
     margin-top: 50px;
 }
 .row-1 i{
-    margin-left: 220px;
+    margin-left: 160px;
     margin-bottom:15px ;
     color:  #56a79a;
 }
@@ -112,7 +112,7 @@ ul li a.active{
 }
 
 .row-2 i{
-    margin-left: 220px;
+    margin-left: 160px;
     margin-bottom:15px ;
     color:  #56a79a;
 }
@@ -143,7 +143,7 @@ ul li a.active{
 
  .core-text{
     margin-top: 70px;
-    margin-right: 570px;
+    margin-right: 400px;
  }
 
 
@@ -183,7 +183,7 @@ footer p{
     background-color: black;
     color: white;
     padding-left: 160px;
-    padding-top: 10px;
+    padding-top: 7px;
     height: 8vh;
 }
 
@@ -207,7 +207,7 @@ footer p{
 
 .who p{
     width: 60%;
-    margin-left: 300px;
+    margin-left: 270px;
 }
 
 .what{
@@ -221,7 +221,7 @@ footer p{
 }
 .what p{
     width: 60%;
-    margin-left: 300px;
+    margin-left: 270px;
 }
 
 /* ABOUT PAGE END  */
@@ -233,13 +233,13 @@ footer p{
 
 #services h1{
     font-size: 2rem;
-    margin-left: 160px;
+    margin-left: 130px;
 }
 
 .services{
     text-align: center;
     width: 65%;
-    margin-left: 330px;
+    margin-left: 270px;
     margin-bottom: 130px;
     margin-top: 50px;
 }
@@ -274,7 +274,7 @@ footer p{
 }
 
 #contact h1{
-    margin-left: 180px;
+    margin-left: 130px;
     margin-bottom: 20px;
 }
 
